@@ -1,0 +1,5 @@
+require "json"
+
+print json_parse_file("json_test_codepoint.json")
+
+
